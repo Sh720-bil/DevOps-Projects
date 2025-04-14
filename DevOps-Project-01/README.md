@@ -37,7 +37,7 @@ Before starting the deployment, ensure you have the following:
 
 2. **GitHub Account and Repository**:
    - Create a [GitHub account](https://github.com/join) if you don't have one.
-   - Fork the Java source code from the [Java-Login-App repository](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-01/Java-Login-App) to your GitHub account.
+   - Fork the Java source code from the [Java-Login-App repository](https://github.com/shashank/DevOps-Projects/blob/master/DevOps-Project-01/Java-Login-App) to your GitHub account.
 
 3. **SonarCloud Account**:
    - Create an account on [SonarCloud](https://sonarcloud.io/) for static code analysis and code quality checks.
@@ -377,15 +377,14 @@ Golden AMIs will be created for the different tiers (Nginx, Tomcat, Maven) of th
 
 ## 🛠️ Author & Community  
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
+This project is crafted by **[shashank](a)** 💡.  
 I’d love to hear your feedback! Feel free to share your thoughts.  
 
 📧 **Connect with me:**
 
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
+- **GitHub**: [@NotHarshhaa](https://github.com/Sh720-bil)  
 - **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-- **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
+- **LinkedIn**: [GOPIDESI SHASHANK](https://www.linkedin.com/in/gopidesi-shashank-500938337/)  
 
 ---
 
@@ -395,4 +394,4 @@ If you found this helpful, consider **starring** ⭐ the repository and sharing 
 
 ### 📢 Stay Connected  
 
-![Follow Me](https://imgur.com/2j7GSPs.png)  
+
